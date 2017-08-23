@@ -1,0 +1,8 @@
+.language {
+    text-align: right;
+    float: right;
+}
+
+.en:lang(en), .fr:lang(fr), .zh:lang(zh){
+    text-decoration: underline;
+}

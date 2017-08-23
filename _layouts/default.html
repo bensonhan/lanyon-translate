@@ -17,6 +17,12 @@
           <h3 class="masthead-title">
             <a href="/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
+            <div class="language">
+                {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                {% for page in pages %}
+                <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                {% endfor %}                
+              </div>
           </h3>
         </div>
       </div>
