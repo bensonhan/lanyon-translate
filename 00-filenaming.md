@@ -3,7 +3,6 @@ layout: page
 title: File Naming and Organization
 lang: en
 ref: filenaming
-order: 1
 ---
 
 Well-organized structures and consistent file names make it easier to keep track of and organize files, and are necessary for IDEP workflows. When naming and organizing files, you should be consistent and ordered so that files are easily identified and sort properly. Set up a clear directory structure and file naming convention that follows a pattern like `project identifier + grouping (like date or volume) + some type of unique identifier`.

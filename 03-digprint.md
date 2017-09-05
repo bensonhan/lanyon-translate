@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Digitization (Print/Image)
-menu: true
 order: 4
 lang: en
 ref: digprint

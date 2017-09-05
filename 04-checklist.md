@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Session Checklist (Print/Image)
-menu: true
 order: 5
 lang: en
 ref: checklist

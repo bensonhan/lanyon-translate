@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Metadata Guidelines
-menu: true
-order: 2
 lang: en
 ref: metadata
 ---
