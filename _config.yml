@@ -27,9 +27,11 @@ github:
 t:
   en:
     home: "Home"
+    url:  "/"
 
   fr:
     home: "Maison"
+    url:  "/index-fr"
 
 plugins:
   - jekyll-paginate
