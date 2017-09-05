@@ -3,6 +3,7 @@ layout: page
 title: Lacquer Disc Transfer
 lang: en
 ref: lacquer
+permalink: /lacquer
 ---
 
 ### Overview

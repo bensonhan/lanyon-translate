@@ -3,6 +3,7 @@ layout: page
 title: MiniDV Transfer
 lang: en
 ref: minidv
+permalink: /minidv
 ---
 
 ## Equipment List

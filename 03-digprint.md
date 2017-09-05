@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Digitization (Print/Image)
-order: 4
 lang: en
 ref: digprint
+permalink: /digprint
 ---
 ### Guidelines for digital capture & post processing using the Nikon D810 digitization kit
 

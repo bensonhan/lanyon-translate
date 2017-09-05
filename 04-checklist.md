@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Session Checklist (Print/Image)
-order: 5
 lang: en
 ref: checklist
+permalink: /checklist
 ---
 
 ### Camera Settings

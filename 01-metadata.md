@@ -3,6 +3,7 @@ layout: page
 title: Metadata Guidelines
 lang: en
 ref: metadata
+permalink: /metadata
 ---
 
 The Guidelines for Descriptive Metadata for the UCLA International Digital Ephemera Project (IDEP) provide descriptive metadata specifications for IDEP partner institutions, with the intent of establishing a common understanding and set of practices across all IDEP collections. Following these guidelines will result in consistent metadata that accurately and adequately describes IDEP collections, facilitates federated searching, and is readily shareable between institutions.
