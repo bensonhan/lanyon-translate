@@ -3,7 +3,7 @@ layout: page
 title: Filenaming et organisation
 lang: fr
 ref: filenaming
-order: 100
+order: 1
 ---
 
 Des structures bien organisées et des noms de fichiers cohérents facilitent le suivi et l'organisation des fichiers et sont nécessaires aux flux de travail IDEP. Lors de la nomination et de l'organisation des fichiers, vous devez être cohérent et ordonné pour que les fichiers soient facilement identifiés et triés correctement. Configurez une structure de répertoire claire et une convention de dénomination de fichier qui suit un modèle comme `identificateur de projet + regroupement (comme date ou volume) + un type d'identifiant unique`.
