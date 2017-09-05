@@ -9,7 +9,9 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/{% if page.lang == "en" %}{% else %}index-{{ page.lang }}{% endif %}>{{ page.title }}</a>
+    <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">
+      {{ site.t[page.lang].home }}
+    </a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with

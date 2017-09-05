@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -22,3 +22,14 @@ version:          2.0.0
 
 github:
   repo:           https://github.com/poole/lanyon
+
+# Language
+t:
+  en:
+    home: "Home"
+
+  fr:
+    home: "Maison"
+
+plugins:
+  - jekyll-paginate

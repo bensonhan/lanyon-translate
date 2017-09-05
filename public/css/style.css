@@ -3,6 +3,7 @@
     float: right;
 }
 
-.en:lang(en), .fr:lang(fr), .zh:lang(zh){
+/* .en:lang(en),
+.fr:lang(fr) {
     text-decoration: underline;
-}
+} */
