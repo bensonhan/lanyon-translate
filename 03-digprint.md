@@ -5,6 +5,7 @@ lang: en
 ref: digprint
 permalink: /digprint
 ---
+
 ### Guidelines for digital capture & post processing using the Nikon D810 digitization kit
 
 ### Equipment list
