@@ -14,7 +14,7 @@ global collections of knowledge and to preserve the historical and cultural reco
 future generations can access and use ephemera that document the larger arena of discourse that takes 
 place alongside mainstream media and scholarly publications.
 
-For more information on IDEP, visit the IDEP Project site: http://idep.library.ucla.edu
+For more information on IDEP, visit the [IDEP Project site](http://idep.library.ucla.edu)
 
 The UCLA Library works closely with project partners to capture, preserve, and describe new forms of 
 knowledge, records, and content. This toolkit outlines standards, workflows, and best practices for 
