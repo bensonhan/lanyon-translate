@@ -9,7 +9,7 @@ permalink:        pretty
 title:            UCLA 
 tagline:          Library
 description:      'A guide to standards and workflows for IDEP partner institutions.'
-url:              http://lanyon.getpoole.com
+baseurl:          '/lanyon-translate'
 
 author:
   name:           'Mark Otto'
