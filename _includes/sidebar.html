@@ -9,7 +9,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="{{ site.t[page.lang].url }}">
+    <a class="sidebar-nav-item" href="{{ site.t[page.lang].url | prepend:site.baseurl }}">
       {{ site.t[page.lang].home }}
     </a>
 
@@ -22,7 +22,7 @@
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | prepend:site.baseurl }}">{{ node.title }}</a>
         {% endif %}
       {% endif %}
     {% endfor %}
